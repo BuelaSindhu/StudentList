@@ -1,0 +1,39 @@
+ .hi{
+        text-align: center;
+        
+        margin-top:50px;
+        margin-right: 25px;
+         
+}
+.container{
+        max-width:500px;
+        background-color: rgb(243, 236, 236);
+        margin:auto;
+        padding:30px;
+       border-radius:12px;
+       margin-top:150px;
+}
+button:hover{
+        background-color: rgb(236, 166, 166);
+}
+.but1{
+        text-align: center;
+        margin-top:50px;
+        margin-right: 25px;
+ }
+.but{
+        background-color: rgb(236, 214, 188);
+       
+}
+ul{
+    list-style-type:none;
+    padding:0;
+    margin-top:20px;
+    
+}
+li{
+
+    margin:5px 0;
+    padding:10px;
+    border-radius:5px;
+}
